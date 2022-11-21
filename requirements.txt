@@ -1,4 +1,4 @@
-tensorflow-gpu==2.7.2
+tensorflow-gpu==2.9.3
 keras==2.2.0
 pillow==9.0.1
 toposort==1.5
