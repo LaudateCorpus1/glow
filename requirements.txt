@@ -1,5 +1,5 @@
 tensorflow-gpu==2.7.2
 keras==2.2.0
-pillow==9.0.1
+pillow==9.3.0
 toposort==1.5
 horovod==0.24.0
